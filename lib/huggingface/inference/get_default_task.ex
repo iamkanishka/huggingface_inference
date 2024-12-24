@@ -1,4 +1,4 @@
-defmodule HuggingFace do
+defmodule Huggingface.Inference.GetDefaultTask do
   @moduledoc """
   Provides functionality to fetch the default task for a model from the Hugging Face Hub.
   Implements caching to minimize API calls.

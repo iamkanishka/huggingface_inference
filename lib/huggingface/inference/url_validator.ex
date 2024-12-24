@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.UrlValidator do
+defmodule Huggingface.Inference.UrlValidator do
   @moduledoc """
   A utility module for validating if a given string is a URL.
 

@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.InferenceOutputError do
+defmodule Huggingface.Inference.InferenceOutputError do
   @moduledoc """
   Represents an error when inference output is invalid.
 

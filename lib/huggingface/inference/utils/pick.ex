@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.Utils.Pick do
+defmodule Huggingface.Inference.Utils.Pick do
     @moduledoc """
     Utility functions for data transformation.
     """

@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.Utils.DistributiveOmit do
+defmodule Huggingface.Inference.Utils.DistributiveOmit do
   @moduledoc """
   A utility module for working with maps, including omitting specified keys from maps.
   """

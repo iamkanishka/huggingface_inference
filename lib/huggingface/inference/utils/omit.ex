@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.Utils.Omit do
+defmodule Huggingface.Inference.Utils.Omit do
   @moduledoc """
   Utility module to omit specified keys from a map and return a new map with the remaining keys.
 

@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.Utils.Base64FromBytes do
+defmodule Huggingface.Inference.Utils.Base64FromBytes do
   @moduledoc """
   A utility module for converting a binary (bytes) to its Base64 representation.
   """

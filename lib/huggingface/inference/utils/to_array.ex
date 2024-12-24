@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.Utils.ToArray do
+defmodule Huggingface.Inference.Utils.ToArray do
   @moduledoc """
   Utility functions for data transformation.
   """

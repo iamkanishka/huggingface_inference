@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.Utils.TypedInclude do
+defmodule Huggingface.Inference.Utils.TypedInclude do
   @moduledoc """
   Utility functions for data checks and transformations.
   """

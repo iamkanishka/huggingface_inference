@@ -1,4 +1,4 @@
-defmodule HuggingfaceInference.Utils.IsBackendOrFrontend do
+defmodule Huggingface.Inference.Utils.IsBackendOrFrontend do
   @moduledoc """
   Utility module to determine whether the application is running on the backend or frontend
   based on the `APP_ENV` environment variable.
